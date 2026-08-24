@@ -1,5 +1,3 @@
-console.log('hello world!');
-
 const pollutionScale = [
   {
     scale: [0, 50],
