@@ -6,4 +6,4 @@ It is important to note that this was solely a testing and technical experimenta
 
 - Terms of Service (ToS) : It is essential to comply with the site's robots.txt file and avoid overloading the servers (using the official API is recommended).
 
-# This initial phase—carried out on dedicated practice websites—allowed me to assess technical feasibility while keeping in mind the legal and ethical best practices required for a finalized project.
+### This initial phase—carried out on dedicated practice websites—allowed me to assess technical feasibility while keeping in mind the legal and ethical best practices required for a finalized project.
